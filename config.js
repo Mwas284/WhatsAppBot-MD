@@ -70,7 +70,7 @@ global.APIKeys = {
 
    //---------------------------------------------------------------------
 
-   global.worktype = 'private'
+   global.worktype = 'public'
 
    //---------------------------------------------------------------------
    
@@ -185,7 +185,7 @@ global.APIKeys = {
 //============ MAIN ============//
 
 //-------------
-global.premium = [`${ownernum}`]
+global.premium = [`${mytsic}`]
 //-------------
 global.sessionName = 'session.alfa'
 //-------------
@@ -195,7 +195,7 @@ global.sp = '𒆜'
 //-------------
 global.devname = 'ＡＬＩＥＮ ＡＬＦＡ'
 //-------------
-global.devNum = ['447405935355']
+global.devNum = ['7438917273']
 //-------------
 global.greetings = 'Hey  👋🏻'
 //-------------
